@@ -1,0 +1,16 @@
+h1{
+    color: blueviolet;
+}
+.name{
+    color: green;
+    background-color: skyblue;
+}
+#para{
+    font-weight: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+input {
+    background-color: blue;
+    border-radius: 10%;
+}
